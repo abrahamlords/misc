@@ -1,0 +1,68 @@
+///////////////////////////////               Report              /////////////////////////////
+////////////////////////////////      Problems Encountered      ////////////////////////////////
+
+-The biggest problem I encountered, by far, was failing to read the directions in detail
+ before I implemented what I thought was a great idea. I suppose I at least got some practice in,
+ but I wish I had more time too. I implemented quicksort first because I thought we were going to
+ have to have both ready, but I didn't have time to do both, so...
+
+-Passing around a 3d char array and copying/manipulating it wasn't easy. Especially after a while
+ of not coding in C/C++. Having to deal with duplicate characters both in every line's particular
+ index and in the cluster making was a substantial challenge.
+
+-Working with strings was new. I was never allowed to use the string library in cse240. One
+ particular problem I had had to do with adding chars to a string. I was trying to add it like
+ string[i] = char; That was a huge pain. Especially because cout wouldn't recognize the string if
+ you enter chars like that. I had to use string += char; instead.
+
+-I never worked with redirecting the iostream, so finding stuff like EOF and new line was a
+ challenge.
+
+-The book's version of quicksort doesn't make much sense. I tried following that to a T, and it
+ just wouldn't work. Once I renamed everything and made a few small changes it made perfect sense
+ and ended up being kind of easy.
+
+-I didn't know how to take command line arguments.
+
+
+/////////////////////////////////////////   Known Bugs    ////////////////////////////////////////
+
+-I know of only one intentional "bug":   ./encode insertion < file.txt will run quicksort. I did
+that to avoid confusion when graders are trying to run insertion. It will at least give the
+correct output.
+
+//////////////////////////////////   Incomplete Implementation    //////////////////////////////////
+
+-I did quicksort before I saw we were just supposed to do insertion sort. So everything is built
+ to handle quicksort only. I'll either need to change a lot of programs to accept both methods
+ of sorting or I'll need to make new ones
+
+-Decoding stuff
+
+-My Github-Clion was giving me some strange errors. After spending a ton of time on that I decided
+to just leave it. I've been saving everything to a local repository. I need to figure that out.
+
+/////////////////////////////////////////   References    ////////////////////////////////////////
+
+-Mitchell's tutorials
+-The textbook
+-cse240 powerPoint on passing by reference
+-my old projects
+-https://stackoverflow.com/questions/2251433/checking-for-eof-in-stringgetline
+-https://stackoverflow.com/questions/5590381/easiest-way-to-convert-int-to-string-in-c
+-https://stackoverflow.com/questions/8960087/how-to-convert-a-char-array-to-a-string
+-https://stackoverflow.com/questions/7430311/saving-ssh-key-fails/8600087#8600087
+-https://stackoverflow.com/questions/4108313/how-do-i-find-the-length-of-an-array
+-http://www.asciitable.com/
+-https://stackoverflow.com/questions/21255438/git-permission-denied-publickey-fatal-could-not-read-from-remote-repository
+-https://www.cplusplus.com/reference/istream/iostream/
+-https://www.cplusplus.com/reference/iolibrary/
+-https://www.cplusplus.com/reference/
+-http://www.cplusplus.com/reference/
+-https://www.cplusplus.com/reference/cstring/
+-https://www.cplusplus.com/reference/cstdlib/
+-https://www.cplusplus.com/reference/cstdio/
+-http://www.cplusplus.com/reference/cstdio/
+-https://www.cplusplus.com/doc/tutorial/files/
+-https://www.cplusplus.com/doc/tutorial/basic_io/
+-https://www.jetbrains.com/help/clion/code-folding-commands.html
