@@ -12,7 +12,7 @@
 
 -Working with strings was new. I was never allowed to use the string library in cse240. One
  particular problem I had had to do with adding chars to a string. I was trying to add it like
- string[i] = char; That was a huge pain. Especially because cout wouldn't recognize the string if
+ string[i] = char; That was a huge pain. Espcially because cout wouldn't recognize the string if
  you enter chars like that. I had to use string += char; instead.
 
 -I never worked with redirecting the iostream, so finding stuff like EOF and new line was a
@@ -22,16 +22,13 @@
  just wouldn't work. Once I renamed everything and made a few small changes it made perfect sense
  and ended up being kind of easy.
 
--I didn't know how to take command line arguments.
-
 
 /////////////////////////////////////////   Known Bugs    ////////////////////////////////////////
 
--I know of only one intentional "bug":   ./encode insertion < file.txt will run quicksort. I did
-that to avoid confusion when graders are trying to run insertion. It will at least give the
-correct output.
+No known bugs
 
-//////////////////////////////////   Incomplete Implementation    //////////////////////////////////
+
+//////////////////////////////////   Incomplete Implentation    //////////////////////////////////
 
 -I did quicksort before I saw we were just supposed to do insertion sort. So everything is built
  to handle quicksort only. I'll either need to change a lot of programs to accept both methods
@@ -39,18 +36,16 @@ correct output.
 
 -Decoding stuff
 
--My Github-Clion was giving me some strange errors. After spending a ton of time on that I decided
-to just leave it. I've been saving everything to a local repository. I need to figure that out.
+-My Github-Clion was giving me some strang errors. After spending a ton of time on that I decided
+to just leave it. I've been saving everything to a local respository. I need to figure that out.
 
 
 /////////////////////////////////    Significant Interactions    //////////////////////d//////////
 
--I didn't know what the encoded empty lines were supposed to be outputted as. Xemiru from this
- this class's discord server explained that to me. I don't know how he knew that, but he's been
- helping tons of people the entire time without giving any blatant answers. He should be a TA.
- He was actively helping everyone like it was his fulltime job.
-
--I didn't know how to take command line argument. Xemiru told us to look into argv and argc.
+-I didn't know what the encoded empty lines were supposed to be outputed as. Xemiru from the
+ discord server explained that to me. I don't know how he knew that, but he's been helping tons
+ of people the entire time without giving any blatant answers, so that was realy cool. He should
+ be a TA. He was active like it was his job.
 
 
 /////////////////////////////////////////   References    ////////////////////////////////////////

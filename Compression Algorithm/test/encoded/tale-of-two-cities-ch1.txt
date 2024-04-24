@@ -1,0 +1,323 @@
+8
+1 y 1 o 1 s 1 A 1 f 1 , 1 e 2 s 5   1 T 1 h 1   1 i 1 l 1 k 1 l 1 i 1 o 1 C 1 D 1 t 1 C 1 c 1 a 1 r 1 e 1 w 1   1 a 2 e 1 n 1 i 1 T 1 b
+8
+1 e 1 h 1 y 1 A 1 f 1 [ 2   1 ] 2 n 1 h 1 r 1 R 1 o 1 c 2 t 2 o 1 e 1   1 v 1 i 1 t 1 F 1 o 2   1 u 1 s 1 l 1 e 1 r
+
+0
+1 S 1 T 1 O 1 E 1 C 1 T 2 N
+
+
+6
+1 e 1 o 1 k 1 d 1 t 1 - 1 e 2   1 - 1 c 2 e 1 h 1 f 1 R 1 l 1 i 1 t 1 L 1 F 1 o 1 l 1 a 1 t 1 o 1 B 1 i 1 r 1 s 2  
+
+8
+1 I 4   1 r 1 e 1   1 d 3   1 h 1 o 1 h 1 t 1 P 1 C 1 T 1 r 1 i 1 a 2 e 1 p
+7
+1 I 3   1 r 1 e 1   1 l 1 I 3   1 M 2 h 1 t 1 C 1 T 1 a 1 i 1 a 1 e 1 p
+7
+1 I 2   1 r 1 e 1 t 1   1 s 2 I 4   2 h 1 a 1 h 1 t 1 i 1 S 1 C 1 T 1 g 1 N 1 d 1 a 1 e 1 w 1 h 1 p 1 o
+7
+1 V 3   1 r 1 e 1   1 n 3   1 I 1 h 1 p 1 r 1 h 1 r 1 t 1 C 1 T 1 t 1 o 1 i 1 e 1 a 1 e 1 a 1 P 1 p 1 a
+9
+1 V 5   1 r 2 e 1 p 3   2 h 1 n 1 t 1 C 1 T 1 s 1 W 1 i 1 h 1 o 1 a 1 e 1 - 1 p
+7
+1 I 3   1 e 1   2 r 1 V 3   1 m 2 h 1 o 1 t 1 k 1 C 1 T 1 S 1 a 1 e 1 h 1 a 2 e 1 p
+
+
+6
+2 e 1 n 1 k 1 d 1 - 1 d 3   2 e 1 n 1 a 1 l 2 h 1 r 1 S 1 d 2 t 1 T 2 o 1 e 2 o 1 G 1 c 1 B 1 h 1 - 1  
+
+9
+1 I 5   1 r 1 s 1 e 1 r 4   1 h 1 e 1 L 1 v 1 Y 2 t 1 C 1 F 1 a 2 e 1 a 1 r 1 p 1 a 1 i
+8
+1 I 4   1 r 1 A 1   1 t 1 I 2   1 h 1 t 1 i 1 C 1 g 1 S 1 a 1 e 1 h 1 p
+7
+1 I 3   1 A 1 r 1   1 t 1   2 I 1   1 s 1 h 1 m 1 t 1 C 1 o 1 D 1 t 1 e 1 i 2 p 2 a 1 e 1 i 1 n 1 p 1 n
+6
+1 V 4   1 r 1 y 2   1 I 1 h 1 l 1 r 1 t 1 n 1 C 1 u 1 o 1 C 1 t 1 a 1 e 1 g 1 o 1 p 2 a 1 t 1 r
+8
+1 V 4   1 e 1   1 r 1 l 3   1 J 1 k 1 h 1 a 1 h 1 t 1 C 1 T 1 c 2 a 1 e 1 p
+8
+1 I 4   1 f 1 r 1 s 1 e 1   1 V 2   1 h 1 n 1 e 1 l 1 r 1 P 1 t 1 o 1 C 1 p 1 u 1   1 e 1 o 1 a 1 e 2 d 1 p 1 H
+7
+1 I 3   1 n 2 r 1 n 1 I 1 V 3   1 h 1 s 1 t 1 n 1 i 1 C 1 e 1   1 i 1 w 1 g 1 o 1 M 1 T 1 a 1 e 1 u 1 n 1 p 1 e 1 o
+7
+1 I 1   1 e 1   2 r 1 n 1 y 1   2 I 1 V 2   2 h 1 s 1 t 1 n 1 i 1 C 1 t 1 e 1   1 i 1 g 1 o 1 u 1 M 1 C 1 a 1 e 1 u 1 t 1 n 1 p 1   1 n 1 o 1 e 1 r
+9
+1 X 3   1 e 1 s 1 r 1   1 n 1 d 4   1 I 1 e 1 h 1 a 1 h 1 H 1 t 1 r 1 C 1 T 1 o 1 g 1 G 1 a 1 e 1 o 1 ' 1 p
+8
+1 X 4   1 o 1   1 r 1 s 3   1 h 1 t 1 s 1 C 1 m 1 o 1 w 1 r 1 a 1 e 1 P 1 e 1 i 1 p 1 T
+9
+1 I 4   1 A 1 n 1 r 1   1 e 1   1 X 2   1 p 1 h 1 i 1 r 1 t 1 C 1 P 1 n 2 o 1 a 1 C 1 i 1 m 1 a 1 e 1 u 1 p 1 c 1 t
+8
+1 I 2   1 f 1 e 1   1 r 1 w 1 y 2   1 I 1 X 2   1 c 1 h 1 i 1 a 1 h 1 D 1 F 1 t 1 o 1 C 1 T 1 l 2 e 1 l 1   1 l 1 a 1 e 1 p 1 o 1 c
+8
+1 I 1   1 o 1 e 1   1 r 1 f 1 w 1 y 2   2 I 1 X 2   1 c 1 h 1 i 1 a 1 h 1 D 1 F 1 t 1 o 1 C 1 T 1 l 2 e 1 l 1   1 n 1   1 l 1 a 1 e 1 p 1 o 1 c
+7
+1 V 2   1 e 1   1 t 1 r 1 n 1   1 X 2   1 I 1   1 r 1 m 1 h 1 a 1 h 1 t 1 d 1 n 1 C 1 T 1 s 1 a 1 o 1 H 1 a 1 e 1 T 2 e 1 s 1 p
+6
+1 V 4   1 r 1 g 1   1 X 1   1 h 1 t 1 n 1 C 1 t 1 n 1 i 1 K 1 a 1 e 1 p 1 t 1 i
+6
+1 I 2   1 l 1   1 r 1 g 1 V 2   1 X 1   1 h 1 t 1 n 1 C 2 t 1 n 1 l 2 i 1 K 1 a 1 e 1 p 1 S 1 t 1 i
+5
+1 I 1   1 e 1   1 r 1 t 1 I 1 V 2   1 X 1   1 h 1 n 1 t 1 i 1 C 1 g 1 N 1 O 1 a 1 e 1 h 1 p
+4
+1 I 1 e 1   1 r 1 s 1   2 I 1 V 1   1 X 1   1 h 1 D 1 n 1 t 1 C 1 N 1 i 1 a 1 e 1 y 1 p 1 a
+7
+1 X 3   1 n 1 r 1   1 n 1 X 1   1 I 1   1 h 1 t 1 C 1 p 1 n 1 A 1 o 2 i 1 O 1 a 1 e 1 p
+8
+1 X 4   1 A 1 r 1   1 a 1   1 X 1   1 e 1 h 1 l 1 t 1 C 1 P 1 a 1 e 1 p
+6
+1 I 3   1 g 1 r 1 s 2   2 X 1   1 h 1 E 2 t 1 n 1 C 1 c 1 o 1 i 1 h 1 F 1 o 1 e 1 a 1 e 1 p 1 t 1 s 1 p 1 o
+7
+1 I 1   1 l 1 e 1   1 r 1 a 1 s 1 I 1 X 3   1 X 1   1 e 2 h 1 S 1 t 1 s 1 C 1 T 1 t 1 R 1 l 1 i 1 a 2 e 1 i 1   1 p 1 s
+4
+1 I 1   1 e 1 r 1 s 1   2 I 1 X 1   1 X 1   1 h 1 r 1 t 1 s 1 C 1 F 1 R 1 a 1 e 1 i 1 e 1 i 1 p
+8
+1 V 2   2 e 1 r 1 o 1 n 1 k 1   1 X 2   1 I 1 X 1   1 o 1 h 1 r 1 o 1 a 1 h 1 n 1 t 1 C 1 t 1 c 1 w 1 o 1 t 1 L 1 R 1 t 1 a 1 e 1 D 1 d 1 p 2   1 s 1 a
+
+
+8
+1 a 2 e 1 f 2 k 1 d 1 - 1 m 4   1 r 1 a 1 r 2 h 1 o 2 t 1 T 1 h 1 c 1 o 1 r 1   1 o 1 B 1 t 1 T 1 i 1 o 1   1 - 1 S
+
+8
+1 I 4   1 r 1   1 n 1 t 3   1 h 1 e 1 S 1 t 1 r 1 C 1 I 1 a 1 e 1 c 1 e 1 p
+7
+1 I 3   1 e 1 r 1   1 e 1   1 I 2   1 h 1 n 1 h 1 n 1 t 1 C 1 T 1 r 1 i 1 o 1 t 1 a 1 e 1 G 1 d 1 p 1 s
+6
+1 I 2   1 r 1 e 1   1 w 2 I 3   2 h 1 a 1 h 1 t 1 S 1 C 1 T 1 d 1 a 1 e 1 p 1 o
+9
+1 V 4   1 r 1 n 1 m 1   1 m 2   1 I 1 C 1 h 1 t 1 C 1   1 a 1 l 1 r 1 i 1 t 1 a 1 e 1 o 1 p 1 S
+9
+1 V 5   1 r 1 e 1 d 1 r 3   1 h 1 s 1 o 1 h 1 t 1 y 1 C 1 T 1 o 1 W 1 a 2 e 1 - 1 p 1 a 1 w
+6
+1 I 4   1 r 1 h 1 V 2   1 h 1 t 1 p 1 C 1 r 1 u 1 m 1 a 1 e 1 T 1 p 1 i
+10
+1 I 3   1 e 1 A 1 r 1 k 1 t 1   1 r 1   1 I 1 V 2   1 h 1   1 o 1 h 1 t 1 C 1 t 1 c 1 K 1 n 1 D 1 o 1 a 1 e 1 o 1 a 1 p 1  
+9
+1 I 2   1 t 1 A 1 r 1 d 2   1 s 1   2 I 1 V 1   1 H 1 h 1 C 1   1 n 1 r 1 t 1 C 2 a 1 e 1 a 1 d 1 a 1 p
+8
+1 X 3   1 e 1 r 1 e 1   1 e 4   1 I 1 M 1 G 1 h 1 a 1 h 1 m 1 d 1 t 1 C 1 T 2 a 1 e 1 p
+11
+1 X 4   2 e 1   1 r 1 e 1 f 1 w 4   1 h 1 t 1 h 1 u 1 n 1 a 2 h 1 c 1 t 1 o 1 S 1 C 1 t 1 T 1 a 1   1 d 1 a 1 e 1 b 1 s 1 p 1   1 S 1 o
+6
+1 I 4   1 r 1 k 1   1 X 1   1 h 1 t 1 C 1 s 1 a 1 e 1 u 1 p 1 D
+5
+1 I 3   1 r 1 s 1   1 I 1 X 1   1 h 1 D 1 t 1 n 1 C 1 r 1 k 1 a 1 e 1 a 1 s 1 e 1 p
+5
+1 I 2   1 r 1 y 1 o 1   2 I 1 X 1   1 h 1 t 1 i 1 C 1 F 1 w 1 a 1 e 1 p 1 - 1 f 2 t
+7
+1 V 2   1 g 1 e 1   1 r 1 e 1   1 X 2   1 I 1   2 h 1 n 1 t 1 n 1 C 1 T 1 t 1 n 1 o 1 i 1 K 1 D 1 a 1 e 1 p 1 t 1 i
+11
+1 V 3   1 e 1 t 1   1 r 1 s 1 r 1 e 1 r 3   1 X 1   1 h 1   1 h 1 i 2 t 1 v 1   1 C 1 T 1 d 2 F 1 o 1   1 e 1 a 1 e 1 o 1 e 1 p 1 t 1 u 1 s 1 p 2 o 1 e
+
+
+
+
+
+6
+1 e 1 o 1 k 1 d 1 t 1 - 1 e 2   1 - 1 c 2 e 1 h 1 f 1 R 1 l 1 i 1 t 1 L 1 F 1 o 1 l 1 a 1 t 1 o 1 B 1 i 1 r 1 s 2  
+
+
+
+
+0
+1 I
+
+2
+1 e 1   1 d 1 o 1 h 1 P 1 T 1 r 1 i 1 e
+
+
+13
+1 e 1 , 2 t 2 s 2 f 2 t 1 e 2 s 1 , 2 w 1   2 h 2 m 1 b 2 o 4 t 1   2 i 2   1 w 1 o 2 a 3 e 1 r 2 s 1 I 1 i 7  
+34
+2 e 1 f 1 , 2 e 2 s 2 t 1 f 1 m 1 s 2   2 w 1 s 2 h 2 g 1 n 2 o 1   2 a 2 t 1 s 1 w 1 l 1   1 , 2 o 1 h 2   1 o 1 d 1 f 2 a 1 s 2 i 1 e 2 i 5  
+36
+1 f 2 e 1 f 1 , 2 h 2 s 2 t 1 f 1 y 2 w 1   2 o 1 n 1 e 2 h 1 r 1 i 1 b 2   2 o 1 e 2 c 2 t 1 l 1   1 , 1   1 l 1 e 1 u 1 i 2 p 2   2 e 1 c 2 a 2 i 2   1 i 1 d 2   1 t
+33
+2 f 1 , 2 n 2 e 2 s 3 t 1 s 2   1 D 2 w 2 e 2 h 2 s 1 n 2 o 1 i 2 t 1 g 1 L 1   1 , 1 r 2 o 1 k 2   2 s 3 a 1 s 2   2 a 1 e 2 i 1 h 4  
+31
+2 f 1 , 1 r 1 g 1 e 2 s 2 t 2 e 1 r 1 p 2 w 1   2 h 1 p 1 t 1 d 2 o 1 n 2 t 1   1 r 1 w 1 a 1 , 1   2 i 2   1 h 1 s 1 o 1 s 1 e 1 i 1 p 2 a 1 e 1   2 i 1 n 5  
+51
+2 g 1 d 2 e 1 d 2 e 1 , 2 s 2 h 2   2 a 2 w 2 r 2 b 1 v 1   2 e 2 n 2   2 t 2 h 2 i 1   2 f 1 n 2 o 1 e 2 u 1 y 1 o 2   1 e 1 , 1   1 r
+56
+1 o 2 e 2 g 2 l 1 t 1 , 2 e 1 n 3   3 e 2   2 r 2 w 1 H 2 r 1 v 2 w 2 n 2   2 o 2 d 2 l 2 a 1 e 2 i 1 t 2 g 2 e 2 i 1 c 1   1 c 1 a 1 t 3  
+55
+1 o 1 r 3 e 1 n 1 s 1 , 1 e 1 d 1 r 1 t 1 y 1 - 1 f 2 w 1 o 3 h 1 k 1 s 1 h 1 p 1 r 1   4 t 1 s 1 l 1 - 1 r 1 i 1   1 i 1 e 1 s 1 i 1 h 3   1 a 1 e 1 p 1 e 1 o 1 a 1 e 2   1 r 1 t 2   1 o 1 n 2   1 a
+41
+1 t 1 s 1 f 1 n 1 s 1 e 1 d 1 t 1 , 1 d 1 h 1   1 e 1 o 1 m 1 t 1 p 2 i 1 o 3 t 1 s 1   1 r 1 o 1 s 1 r 2   2 o 1   2 i 1   1 n 1 s 1   1 h 1 s 1 e 1 o 1 e 1 t 1 i 1 n 1   1 t 1 e 1 i 1 s 1 a 1 s 1   1 u 3 i 1 a
+13
+1 e 2 r 1 , 1 r 1 , 1 d 1 g 1 e 1 n 1 d 2 l 2 e 1 o 1 e 1   1 v 1 h 1 e 1 r 1 v 1 r 1 d 1 b 1 c 1 p 3   1 n 1   1 e 1 t 1 v 1   1 e 1 t 1 e 1 i 1 r 2 i 1 o 1 g 1 f 1   1 f 1 u 3 o 1   1 g 1 e 2   1 a 1 s 2 i 1 e
+11
+1 f 1 n 1 y 1 p 1   1 o 1 r 1 n 3 o 1 . 1 c 1 s 1   1 m 1 a 1 i 1 l
+
+15
+1 e 2 h 1 d 1 w 1 n 1 e 4 a 1 e 1 g 1 n 1 e 1 , 4   1 f 1 l 1   1 l 1 j 1 a 1 n 1 r 1 g 1 r 1 c 1 u 1 e 1 w 1 h 1   1 n 1 r 2 t 1 T 1 a 1 k 2 w 2   1 p 1   1 i 1 e 1 a 1 i 2   2 e 1 a 2 i 1 q 1 a 3  
+51
+1 f 1 e 1 h 1 w 1 e 2 a 1 e 1 n 1 ; 2 e 1 g 1 d 3   1 l 1   1 l 1 j 2 n 1 r 1 g 1 n 1 h 1 r 1 w 1 h 1 o 1 n 1 r 1 n 4 t 1 k 1 w 2   1 g 1   1 o 2 a 1 o 1 i 1 E 1   1 d 1 r 2 e 1 a 1 h 1 i 3   1 a 2  
+18
+1 . 1 f 1   1 h 1 n 1 r 1 a 1 e 1 , 1 a 1 n 1 e 1 n 2 e 3   1 h 2 f 1 r 1   1 a 2 n 1 h 2 c 1 u 1 e 1 o 2   4 t 1 a 1 w 1 I 1 o 1 e 1 a 1 o 2   1 r 1 b 1   1 i 1 F 1 h 1 i 1 o 2   1 q 1  
+18
+1 e 1 s 1 n 1 s 1 e 1 s 1 r 1 f 1 o 1 l 1 t 1   1 t 1 h 1 e 1 w 1 t 1   1 e 1   1 r 2 h 1 l 1 t 1 r 1 i 1 o 3 t 1 r 1   1 a 1 c 1   1 a 1 u 1 t 1   1 l 1 c 1 e 1 o 1 a 1 t 1 c 1 a 1 e 1 d 1 y 1 i 1 s 1 S 1 a 4   1 n 1 o 1   1 r
+42
+1 s 1 d 1 n 1 s 1 f 1 s 1 , 1 t 1 l 1 s 1 r 1   1 h 1 o 1 n 1 g 1 r 1 n 1 w 1 s 2 v 1 h 1 r 1 o 2   1 n 1 t 1 s 1 t 1   1 h 1 f 1 a 1   1 i 1 a 1 e 1 i 1 l 1   3 e 1 p 2 e 1 g 3 e 1 i 1 a 2   1 a 1 r 1  
+13
+1 r 1 d 1 r 1 e 1 l 1 v 1 s 2   1 t 1 f 1 o 1 e 1 . 1 t 2 e
+
+11
+1 r 1 f 1 d 1 n 1 r 2 d 1 s 1 e 1 t 1 e 1 d 2   1 s 1   1 e 1 w 1 e 1 r 4 n 1 h 1 y 1 r 1 v 1 s 1 o 2 t 1   1 e 2 a 1 u 1 o 2   1 L 1 h 1 u 1 a 1 o 1 d 1 a 1 u 1   1 I 2   1 h 1 O 1 o 1 e 2  
+52
+1 . 1 o 1   1 d 1 e 1 l 1 d 1 s 1 y 1 e 2   1 u 2 l 1   1 n 1   1 n 2 e 1 r 1 v 1 d 1 c 2 v 1 w 1 r 1 s 1 - 1 n 1 t 1 p 1 r 1 f 1 a 1 g 1 e 1 o 1 a 1 E 1 o 1 e 1 t 1 c 1 i 1 S 1 e 1   1 i 1 n 1 t 1 a 1   1 a 1 i 1 n 1 t 1 i 2 e 1   1 t
+53
+1 . 1   1 . 1 , 1 s 2 t 2 d 1 t 1 d 2 s 2   1 h 1   1 h 1   1 f 1 e 1 h 1 e 1 a 1 o 2 r 1 c 1 p 2   3 t 1 r 1 h 1 t 1 e 1 i 1 c 1 v 1 S 2   1 u 1 e 1 M 1 a 1 i 1 r 1 a 1 t 1 a 1 y 1 u 1   1 n 3 o 1 a 1 l
+13
+1 m 1 d 1 h 1 r 1 d 1 , 1 f 1 y 1 e 1 d 1   1 t 1 - 1 a 1 d 2   2 e 1 n 1 h 1 v 1 s 1 n 1 w 1 h 1 l 1 i 1 o 1   2 t 1   1 w 1 t 1 a 1 b 1 f 1 b 1 o 1 a 1 i 1 e 1   1 h 1 e 1 i 1 s 1 e 1 t 1 e 1 r 1 n 1 a 1 - 1 i 1 t 1   1 a
+47
+2 e 1 s 1 d 1 e 1 c 1 e 1 n 1 d 2   1 h 1 r 1 u 1 v 1 u 1 i 1 a 1 e 1 l 1 r 1 f 1 h 1 t 1 h 1 d 1 m 2 h 1 i 1   2 t 1   1 p 1 t 1 L 1 l 1   1 r 1 a 1 b 2 i 1 r 1 o 1   2 e 1 a 2 p 1 d 1   1 a 2   1 e 1 G 1 s 1 i
+12
+1 y 1 t 3 e 1 g 1 r 1 s 1 m 2 r 1   2 e 1   1 h 1   2 n 1 a 1 c 1 d 1 r 1 h 1 p 1 g 1 m 1 w 1   2 n 2 t 1 c 1   1 e 1 a 1 u 1 i 2 a 1 n 1 e 1 f 1 n 1 p 1 a 1 o 1 a 1 r 1 e 1 a 1 t 1 a 2   1 n 1 o 1   1 b
+52
+1 . 1 e 1   1 f 1 d 1 n 1 p 1 n 1 g 1 k 1 r 4   1 w 1   1 l 1 o 2 n 1 h 1 v 1 t 1 W 1 n 1 o 1 n 1 t 1 w 1 m 1 c 1 - 1 a 1 l 1 t 1 o 1 e 1 a 1 o 1 a 2 i 1 C 1   1 d 1 L 1 l 1 u 1 e 1 n 2 e 1 s 1   1 s 1   1 E 1 s 1 o
+31
+1 y 1 , 2 d 1 t 2 n 1 d 1 r 1 a 1 f 1 s 1   1 h 1   1 l 1 r 1 e 1   1 a 1 n 1 i 1   1 y 1 b 1 e 1 z 1 t 1 o 1 a 1 n 1 g 1   1 g 1 a 1 p 1   1 n 2 e 1 u 1 i 1 o 2   1 h 1 r 1 d 1 p 1 a 1 e 2   1 a 1 r 1 o 1 s 1 f 1 o 1 l 1   1 o
+33
+1 , 1 t 1 r 2 s 1 t 1 e 1 s 1 f 1 s 1 y 2 s 1 e 1   1 l 1 p 1 h 1 y 1 v 1 g 1 m 1 o 1 a 2 t 1 p 1 h 1   1 r 3   1 t 1   1 s 1 a 1 i 1 e 2 t 1 a 1 i 1 e 1 s 1   1 e 2 a 1 u 1 s 2   1 s 2 i 1 o 1   1 r 1  
+6
+1 y 1 t 1 n 1 d 1 ) 1 t 1 . 1 y 1 s 1 n 2 r 1 n 1 i 1 e 1   1 p 1 d 1 h 1 i 1 p 1 e 1 i 1 t 1 f 1 c 1 r 1   1 g 1 e 1 l 2 a 1 l 2 i 1 r 1 e 2   1 p 1 u 1 a 1 u 1   1 o 1 e 1 i 1 r 1 ( 1 n 1 u 1   1 a 1 i 1 s 1 t 1 o 1 l 1 t
+11
+1 y 1 e 1 f 2 s 1 d 1 e 1 r 1 y 1 n 1 e 1 o 1 h 1 s 1 e 1 l 1   1 a 1 r 1 h 1 r 1 m 1   1 t 1 v 1 d 1 M 1 g 1 m 1   1 o 1 a 1   2 t 2   1 e 1 h 1 o 1   1 i 1 e 1 t 1   1 c 1   1 e 1 o 1 e 1 a 1 t 1 e 1 s 1 e 1 a 1   1 r 1   1 n 1 e 2 l
+60
+1 f 1 h 1 e 1 d 1 m 1 n 1 a 1 , 1 s 1 h 1 e 6   1 u 1   1 e 1 n 1 h 1 l 1 j 1 P 1 r 1 o 1   2 n 2 s 1 t 1 l 1 t 1 r 1 b 1 p 1 g 1 o 1 w 1 a 1 E 1 o 1   1 r 1 c 1 e 1 r 1 o 1 g 1 B 1 f 1 C 1 s 2 i 1 e 1 t 1   1 s 1 i 1 c 1 s 1 o
+36
+1 : 1 n 1 , 1 e 1 d 1 e 1 o 1 , 1 e 1   1 e 1 h 1 a 1   1 c 1 r 1 t 1 l 1 h 2 i 1 e 1 r 1 v 1 g 1 t 1 v 1 r 1 m 1 n 1 c 1   1 w 1 r 1 h 1   1 t 1 e 1 A 1   2 i 2 a 1 t 1 m 1 p 1 r 1 m 1   1 t 1 o 1   1 e 1 p 1 o 1   1 r 1 a 1 n 1   1 s 1 a 1 o 1  
+55
+1 n 1 y 1 e 1 n 1 t 1 e 1 o 1 d 1 s 1 r 1 h 1 m 1   1 c 1 i 1 a 1 e 1   1 e 1 h 1 c 1 r 1 v 1 c 1 y 1 u 3 t 1 g 1   1 n 1 t 1 e 1 u 1 o 1 m 2 a 1 u 1 o 1 a 1 t 1 c 1 i 1 r 2   1 h 1 n 1 e 3   1 a 1 h 1 o 1 h 1 m 1 i 1 n 1  
+11
+3 e 1 s 1 y 2 f 1 k 1 d 1   1 l 1 . 2   1 o 1 i 1 o 1 h 1 n 1 h 1 k 2 o 2 t 1 c 1 h 2 c 1 - 1 a 1 e 1 a 1 C 1 o 2   1 r 1 b 1 n 2   1 n
+
+11
+1 e 1 s 1 , 1 o 1 d 1 s 1 l 1 n 1 s 2 e 1 n 1 u 1 h 1 r 1   1 m 1 f 1 n 1 e 1 l 1 h 1 c 1 r 1 t 1 l 1   2 t 1 w 1 p 1 r 1 a 1 o 2   1 o 2 a 1 t 1 h 1   1 v 1 s 1 F 1 u 1 i 1 e 1 s 1 r 1 a 1   1 e 1 t 3   1 a 1 i 1 t 1 o 1 a 1  
+30
+1 d 1 h 1 r 1 , 1 e 1 r 1 f 2 d 1 t 1   1 x 1 l 1 n 1 e 1 i 1 e 1 h 1 l 1 e 1 c 1 i 1 d 1 t 1 h 1   1 o 1 n 2 t 1 g 1 s 1 r 1 h 1 d 1 s 1 w 1 e 1 l 1 o 1 a 1 i 1 e 1   1 r 2 e 1 t 3   1 i 1 n 1 s 1 i 3   1 e
+50
+1 y 1 s 1 n 1 g 1 , 1 r 1 g 1 d 1 l 1 t 1 m 1   1 p 2 n 1   2 p 4 n 1   1 t 1 h 1 d 1 k 1   1 a 1 l 1 i 2   1 s 1 w 1 a 1 e 1 h 1 o 2 i 2 m 1 o 1 d 1   1 s 1 a 1 e 1 s 1 . 1   1 e 1 i 2 o 1 e
+10
+1 r 2 e 1 f 1 e 1 n 1 , 1 r 1 s 1   1 d 1 t 1 i 1 d 1 p 1 n 1 e 1 i 1 n 2 h 1 c 1 n 1   1 h 1 d 1 t 1 o 1   1 s 1 t 1   1 C 1 t 1 u 1 a 1 r 2 a 1 U 1 i 1 e 1   1 t 1   2 e 1 h 1 o 1 e 1 r 1   1 i 1 a 1 r 1 n 1   2 s 1 g
+31
+1 e 1 s 1 , 1 h 1 s 1 h 1 , 1 f 1 s 1   1 m 2   1 u 1 a 1 n 1 i 1 n 1 s 1 v 1 t 1 s 1 m 1 h 1 d 1 b 1 i 1 l 1 n 1 c 1 t 1 g 1 c 1   1 s 1 h 1 c 1 w 1 e 1 u 2 e 1 a 1 i 3 e 1 t 1 a 1 e 1 r 1   1 e 1   1 n 1 i 1 n 1 s 1 h 1 e 1  
+13
+2 s 1 o 1 e 1 , 1 t 1 n 1 h 1 s 1 e 1 t 1 a 1 f 3 h 1   1 n 1 v 1 u 1 f 1 o 1 n 2 t 4   2 h 1 w 1 r 1 a 1 o 1 t 1   2 t 1   1 y 1 o 1 d 2 i 3 u 1 i 3   1 g 1 c 2 o 1 a 2  
+51
+1 d 2 , 1 s 1 y 2 e 1 d 1 t 1 d 1 s 1 e 1 h 2   1 c 3   1 e 1 n 1 e 1 n 1 a 1 e 1 o 1 h 1 s 1 v 1 b 1 n 1 l 1 n 1 e 1 c 3   1 p 1 h 1 l 1   1 e 1 a 1 i 1 a 1 r 1 k 1   1 b 1 n 1 d 1 u 1 e 1 i 1 r 1 u 1 o 1 b 1 a 1 i 1 d
+17
+1 o 1 a 2 o 1 n 1 f 1 n 1 y 1 e 1 n 1 r 1 n 1   1 r 1 o 2   1 s 1 h 1 c 1 o 1 t 2   1 a 1 s 1 d 1 n 1   1 w 1 o 2 i 2 o 2 t 1 d 1 r 1   1 i 1 m 1 h 1 n 1 d 1   1 u 1   1 p 1 i 1 k 1 s 1 e 3   1 r 2 o 1 t
+57
+1 t 1 , 1 a 1 e 1 n 1 e 1 y 1 h 1 f 1 s 1 d 1 w 1   1 t 1 p 1   1 n 1 i 1 e 1   1 m 1 c 1 s 1 i 1 o 1   1 i 1 c 1 w 1 t 1   1 h 1 v 1 f 2 h 1 d 1 w 1 o 1 i 1 a 1   1 s 2   1 o 1 i 1 s 1   1 a 1 i 1 a 1 s 1 i 1 f 1   1 e 1 r 1   1 t
+49
+1 . 1   1 y 1 d 1 t 2 s 1 , 1 h 1 n 1 e 1 y 1 t 1 s 1   1 y 1 h 1 e 1 o 1 r 1 h 1 t 1 k 1   1 o 1 u 1 g 2 t 1 l 2   1 s 1 i 1   1 e 1 i 1 e 1 o 1   1 w 1 r 1 o 1 n 1 a 1   1 i 2 d 1 f 1 I 1 a 1 o 2   1 x 1 o 1   1 i 1 l 1 t 1  
+11
+1 d 2 e 1 t 1 n 1 , 1 g 1 e 1 , 1 y 1 s 1 r 1   1 r 1   1 h 1 w 2 n 1 c 3 r 1 h 1 r 1 w 1 h 1 f 1 e 1 f 1 u 1 n 1   1 t 1 w 1 t 1 w 1 e 2 a 1 i 1 N 1 r 1 e 1 F 2 e 1 t 1 e 1 g 1 o 1 e 1   1 a 3   1 s 1 r 2   1 o 1 a
+59
+1 , 1 e 1 , 1 d 2 o 1 y 1 s 1 y 1 , 1 t 1 n 1 h 1 e 2   1 e 1   2 m 1 w 1 F 1 e 2   1 e 1   1 o 1 a 1 h 1 t 1 r 1 d 1 k 1 m 2 t 1 r 1 a 1 d 1   1 o 1 a 2 t 1 o 1 c 1 W 1   1 l 2 a 1 u 2 a 3   1 p 1 e 1 d 1 b
+25
+1 e 1 n 1 d 1 o 1 a 1 e 1 n 1 o 1 n 1 e 1 , 1 s 1   1 v 1 t 1 m 1 r 1   1 o 1 s 1   1 a 2   1 n 1 k 1 r 1 k 1 l 1 b 1 c 1 m 1   1 a 1   1 r 1 a 1 b 1   1 a 1   2 w 1 i 1 a 1 i 2 t 1 b 1 w 1 m 1 d 1 f 1 a 1 o 1 e 1 d 1   1 r 1 n 1   2 o 1 a 1 e
+62
+1 . 1   1 d 1 h 1 k 1 n 2 e 1 t 1 n 1 a 1 s 1 a 1 , 1 t 1 y 3   1 s 1   1 i 1 a 1 n 1 l 1 f 1 k 1 t 1 i 1 t 1   1 r 1 n 1 l 3   1 h 1   1 w 1 c 1 i 1   1 b 1   1 e 2 i 1 a 1 k 1 t 1 r 1 e 1 o 1 i 1   1 i 1 I 1 i 1   1 i 1 s 1 y 1 r 1 l
+17
+1 e 1 t 2 s 1 h 1 e 1 f 1 h 1 f 1 n 1 e 1 h 1 e 2 h 1 m 1 h 1 y 1 l 1 s 2 o 2 u 2 g 3 t 1   2 t 1   1 l 1 i 1 o 1 i 1 e 2   1 s 1 r 1 n 1 h 2   2 e 1 r 1 u 1   1 a 3   1 u 1   4 o 1 a 1 v
+38
+1 o 1 s 1 d 1 e 1 m 1 , 1 t 2 e 1 s 1   1 j 1   1 l 1 P 1 e 1 a 1 e 1 a 1 n 1 r 1 h 1 r 1 w 1 r 1 h 1 c 1 w 1 h 1 t 1 h 1   1 t 1 s 2 t 1 r 1 d 1 r 1 e 1 o 1 a 1 e 1 t 1 r 3 e 1 a 1 e 1 f 1 d 1 i 1   1 n 1 l 2   1 a 3  
+53
+1 , 1 e 1 y 1 c 1 , 1 h 1 , 1 t 1 d 1 s 1 y 1 e 1 c 1 h 1 p 1 d 1   1 i 1   1 e 1   1 u 1 e 1 d 2 r 1 f 1 t 1 v 1 b 1 f 1 u 3 t 1 m 1 w 1   2 s 1 i 1 e 1 a 2   1 e 1 t 1   1 e 1 u 1 a 1 t 1 i 1 d 1 s 1 r 1 a 1 r 1 n 1 r 2   1 r 1 a
+18
+1 , 1 e 2 , 1 t 1 n 1 d 2 y 1 d 1 h 1 , 1 r 1 h 1 s 1 y 4   1 F 1 e 1 a 2   1 i 1 e 1 n 1 h 1 D 1 t 1 m 1 i 1 c 2 t 1 w 1 h 1 p 1   1 u 1 r 1 i 1 a 1 r 1 o 1 p 1 b 2   1 e 1 a 1   1 t 1 g 1 o 1 u 1 s 1 a 1   1 l 2 o 1   2 b 1 r
+29
+1 . 1 e 1 d 1 t 1 o 1   1 e 1 s 1 y 1 f 1 t 1 s 1 n 1   1 h 1 e 2   1 p 1   1 m 2 a 1 h 1 b 1 r 1 s 1 R 1 o 1   1 t 1   1 r 1 t 1 h 1 a 1 i 1 o 1 u 1 o 1 t 1   1 v 1 i 1 a 1 l 1 b 1 a 1 l 1 i 1   1 e 1 r 1   1 u 2   1 t 1 l 1 e 1 d
+11
+2 t 1 n 1 d 1 t 1 h 1 , 1 k 1 y 1 r 1 y 1 , 2   1 m 1   1 F 1 e 2 h 2 n 1 o 1 c 1 m 1 h 1 u 1 n 1 g 4 t 1 s 1 r 1 g 1 d 1 r 1 a 1 u 1 a 1 i 1 o 1 W 1 w 1 h 1 e 1 o 4 a 1 u 4   1 o 1   1 B 1   1 e 1 l
+57
+1 t 1 , 1 m 1 e 1 d 1 o 1 k 1 d 1 s 1 y 1 t 1 y 2   1 e 1   1 a 1 n 1 r 1 n 2 h 1 w 1 l 1 h 1   3 t 1 s 1 w 1 r 1 i 1 t 1 e 1 a 1 o 1   2 e 1 n 1   1 w 1 b 1 a 1 o 1 a 1   1 n 1 u 2   1 i 1 n 1 o 2   1 h 1 e 1 l
+40
+1 : 1 n 1 h 1 o 1 , 1 n 1 e 1 y 1   1 s 1 d 1 r 1 d 1 e 1 t 2   2 r 1 u 1 i 1 e 1 a 1 h 1 r 1 l 1   1 h 1 t 1 u 1 f 1   1 c 2 t 1 p 1 a 1 c 1 f 1 s 1   1 i 1 o 1 e 1 a 1 t 1 i 1 f 1 s 1 e 1 o 1   1 t 1 e 2 a 1 u 1   1 r 1 n 1   1 a 2   2 m 1 s 1 n
+47
+1 l 2 e 1 o 1 t 1 s 1 d 1 , 1 y 1 e 1 s 1 r 1 w 1 c 1   1 w 1 h 3   1 i 1 n 1 b 1 r 1 k 1 h 1 w 1 h 4 t 1 e 4 a 2 t 1 r 1 t 1 e 1 o 1 a 1 u 1 i 1 a 1 . 1 a 1   1 s 1   1 i 1   1 o 1 a 2   1 e
+
+12
+2 n 1 y 1 r 1 t 1 f 1 d 1 s 1 , 1 e 1 d 1   1 n 3   1 l 1 c 1 w 1 s 1 r 1 e 2 n 2 r 1 t 1 c 1 d 1 h 1 o 1 n 2 t 1 g 1 e 1 a 1 I 1 a 1 o 2 a 1 E 1 u 1   1 i 1   1 r 1 m 1   1 e 1 a 1 o 1 e 1 p 1 a 1   1 n 1 o 1   1 c 1 o 1   1 l
+56
+1 . 1   1 y 1 l 1 g 1 s 1 o 1 y 1 h 1 g 1   1 n 1 l 1 D 1   1 o 1 n 3   1 u 1 e 1 m 2 i 2 n 1 r 1 c 1 r 1 t 1 r 2 t 1   1 a 1 g 1 r 1   1 o 1   2 i 1 t 1 b 1 i 1 u 3 a 1 e 1 u 1 a 2 s 1 a 1 d 1 m 1 b 1 j 1 b 1 f
+41
+1 , 1 e 1 d 1 e 1 l 1 k 1 y 1 n 1 , 1 n 1 s 1 l 1 t 1   1 c 1 w 1 o 1 b 1   1 a 1 n 1 h 1 c 1 s 1 m 1 b 1 i 1 l 1 i 1 t 1   1 g 1 r 1 h 1   1 p 1   1 o 1 a 1 p 1 e 1 f 1 i 1 e 1 a 1 r 1 o 1 t 1 a 1   1 e 1   1 e 1 t 1 i 2   1 i 1 h 1 a
+22
+1 y 1 ; 1 o 1 y 1 d 1 t 1 o 1 e 1 t 1 s 1 t 1 f 1 c 1 u 1   1 i 1 e 1 r 1 n 1 w 1 v 1 i 1 f 1   1 o 1 i 1   1 g 2 l 1 n 1 m 1 t 1 b 1 i 1 c 1 a 1 o 2   1 t 1 g 1   1 i 1 n 2   3 e 1 u 1 o 1 h 1 u 1   1 p 1 o 1 a 1 e 1   1 l 1 r
+54
+1 r 1 t 1 g 1 e 1 o 1 ' 1 n 1 s 1 w 2 r 1 h 1 r 1 t 1 r 1 s 1   1 n 1 t 1 p 1 e 1 t 1 v 1 e 1 w 1 n 1 o 1 e 1 w 1 i 1 r 1 t 3 h 1 m 1 t 1 u 1 i 1 u 1 a 1   1 e 1 u 1 e 1 r 1 u 1 l 1 e 1 u 1 s 1   1 i 1   1 s 1 i 1   1 t 1 f 3 o 2   1 o
+27
+1 a 1 s 2 e 2 n 1 r 1 n 1 ; 1 y 1 k 1 y 2   1 r 2 m 1 d 2 w 1 e 1   1 a 2 h 1 s 1 d 1 n 1 i 2 t 1   1 g 1 h 2   1 C 2 r 1 y 1 s 2 a 2 i 1 f 1 o 1 t 1 u 2 a 1   1 e 3   2 i 1 c 1   1 h 2 t 1 a
+59
+1 d 2 , 2 d 1 s 1 y 1 e 1 g 1 t 1 d 1 w 1 h 5   3 e 2 n 1 h 1 r 1 s 1 g 1 b 1 f 1 l 1   2 n 1 i 1 o 1 c 1 t 1   1 g 1 l 1 e 1 h 1 n 1 l 1   1 a 1 e 1 l 2 a 1 i 1 e 1 g 1 c 1 l 1   2 i 1 h 1 - 1 o 1 b
+58
+1 f 1 e 1 s 1 m 1 n 1 d 1 r 1 e 1 n 1   1 , 1 n 1   2 r 1 t 1 m 1 C 1 h 1   1 a 1 e 1 a 2 h 1 p 1 t 1 d 1 o 1 c 1 t 2   1 w 1   1 a 1 h 1 o 1 s 1 i 1 a 1 i 1   1 h 1 t 1 p 1 o 1 a 1 e 1 a 1 t 1 i 1 e 1   1 p 1 c 1 " 1 s 1 " 1  
+27
+1 d 2 e 1 t 1 e 1 d 1 y 1 h 1 ; 1 m 1 l 1 y 1 e 1 m 1 g 1   1 l 1 w 1   1 w 1 a 1 n 1 o 1 d 3 h 1 s 1 u 1 g 2 t 2   1 s 1 t 1 h 2 l 2 a 1 t 1 i 1   2 a 1 r 1 h 1 r 1   1 h 1 a 1   1 o 3   1 n 1 o 1   1 a 1 l 1 a
+62
+2 , 1 d 2 e 1 n 1 y 3 d 1 t 1 s 1 d 1 e 1 l 2   1 u 1 w 1 o 1 b 1   1 i 1 r 2 n 1 a 1   1 e 1 h 1 d 1 r 1 v 1 h 1 b 1 s 1   2 t 1 s 1 t 1 a 1 y 1 e 2 a 1 e 1 r 1 h 1 a 1 h 1   1 e 1 r 2   1 o 3   1 g 1 e 1 n 1 b 1 a
+30
+1 , 1 f 1 n 1 t 1 r 1 d 2 e 1 t 1 y 1 f 1   1 r 1 e 1   1 n 1   1 a 1   1 c 1 h 1 d 1 h 1 s 1 u 1 s 1 h 1 l 1 o 1   1 e 3 t 1   1 s 1 h 1 " 1 e 2 i 1 e 1 o 1   1 c 1 h 1 g 1   1 f 2 e 1 u 1 m 1 n 1   2 o 2   1 o 1 q 1 o 1 b
+26
+1 " 1 s 1 f 1 d 2 e 1 s 1 h 1 l 1 r 1 : 1 n 1   1 f 1 m 1   1 w 1 o 1 b 1 i 1 e 1 h 1 r 1 b 1 t 1 o 1 n 1 a 1 c 1 t 1 w 1   1 h 1 a 1   1 t 1 h 1 n 1 l 1 a 1 i 1   1 a 1 m 1 o 1 i 1 u 1 r 1   1 i 1 e 1 u 1   1 i 1 a 1 f 1   1 i 1 m 1 l 2  
+50
+1 f 1 e 1 d 1 t 1 r 1 t 1 ; 2 , 1 e 1 n 1 e 3   1 e 1 m 1 w 1 h 1 t 1 M 1 a 1 i 1 r 1 n 1 h 1 t 1 c 1 p 1 c 1 t 1 o 1 i 1 a 2 t 1 f 1 n 1   2 o 1 g 2 e 1   1 d 1 L 1 y 1 L 1 p 1 s 1   2 o 2 a 2 n 1 a 1 o 3   1 a
+39
+1 m 1 n 1 d 1 , 1 d 1 e 1 r 1 y 1 o 1 e 2 n 2   1 m 1 h 1 m 1 t 1   1 w 1   2 n 1 a 1   1 n 1 d 1 r 1 d 1 e 1 v 1 i 1 n 1   1 g 1 h 1 l 1 e 1 a 1 , 1 y 1 o 1 e 3 a 1 o 1 r 1 t 2   1 e 1 G 1 u 1   1 s 1   1 T 1 i 1 h 1 b 1 a
+57
+1 f 1 s 1 o 1 l 2 e 1 t 1 n 1 d 1   1 e 1   1 e 1   1 h 2 r 1 l 1 d 1 o 1 i 1 t 1   1 w 1 g 1 s 1 o 2   1 r 1 h 1 l 1 i 1 a 1 i 1 l 1 i 1 h 1   1 p 1 i 1 s 1 u 1 c 1 t 1 u 1   1 e 1 u 1 i 1 h 1   1 s 1 a 1 t 1 o 1 l 1 s
+43
+1 n 1 t 1 s 1 n 1 s 1 ; 1 h 1 s 1 e 1   1 g 1 b 1   1 n 1 u 1 h 1 n 1 l 1 r 2   1 u 2 t 1 g 1   1 t 1 e 1 r 1 w 1 t 1 o 1 i 3 o 1 i 1 a 1 d 1 L 1 s 1 f 1   1 r 1 p 1 i 1 e 1 l 1 r 1 e 1 i 1 h 1 i 1   1 e 1 t 1 a 1 n 1 o 1  
+57
+1 n 1 , 1 d 1 w 1 s 2 e 1 y 1 f 1 d 1 s 1 m 2   1 l 1   1 r 1 e 2 n 2 h 1 r 1 d 1 s 1 j 1 k 1 o 1   1 n 2 t 1   1 f 1 a 1 n 1   1 b 1   1 a 1 i 1 a 1 u 1 o 1 r 1   1 m 1 e 1 i 1 u 1 e 1 y 1 s 1 u 1 e 2   1 g 1 s 1 l 1 t 1 b 1 a 1 t 1 e
+57
+1 t 1 d 1 , 1 s 1 d 1 h 1 f 1 s 1 ; 1 d 1 m 1 l 1 o 1 b 2   1 n 2 e 1 a 1 n 1 p 1 d 1 h 1 v 1 i 2 o 1 f 3 t 1 s 1 h 1 n 1 w 1 l 1 a 1   1 e 1 a 1 u 1 s 1 l 2   1 h 1 r 1 p 1 i 1   1 d 1 e 2   1 o 1 i 1 f 1   1 o 1 e 1  
+16
+1 t 1 s 1 d 1 s 2 e 1 f 1 s 1 m 1   1 i 1   1 o 1 e 1   1 n 1 t 1 r 1 l 1 h 1 n 1 s 1 o 1   1 t 1 d 1 c 1 b 1   1 o 1 a 1 o 2   1 n 1   1 r 1 m 1 l 1 r 1 C 1 o 1 f 1 c 1 u 1 d 1 e 1 k 1 s 1 o 1 a 1 r 1   1 o
+18
+1 . 1 o 1 h 1 t 1 ; 1 o 1 , 3 s 1 g 1 t 1 s 2   1 e 3 r 1 s 1 t 1 w 1 e 1 l 1 k 1   1 n 1 c 1 G 1 w 1   1 s 1 i 1 o 1   1 i 1 e 1 i 2 t 1 o 1 r 1 f 1 d 1 a 1 o 1 - 1 e 1 r 1 e 1 ' 1 m 1   1 u 1 n 1 S 1 e 1 n 1   1 m 1   1 a
+18
+2 , 1 b 1 d 2 e 2 d 1 n 1 d 2 s 1 r 1 b 2   1 o 1 a 1 e 1 n 1 e 2 n 1 o 3 h 1 r 1 t 1 e 1 k 2   3 t 1 f 1 s 2   1 o 3 a 1 o 1 m 1 o 1   1 c 1 g 1 t 1 i 1 e 1 d 1 r 1 u 1 e 3   1 n 1 m
+35
+1 , 1 t 1 s 1 e 1 d 1 y 1 d 1 n 1 f 1 y 1 b 2   2 o 1 n 1 e 1 o 1 h 1 r 1 t 1 s 1 e 1 h 1 k 1 o 1   1 u 3 t 1 g 1 f 1 s 1   1 e 1 o 1 a 1   1 a 1 m 1 n 1 b 2   1 h 1 i 1 e 1 r 1 e 1 u 1 h 1 e 3   1 o 1 m 1 n 1 d
+42
+1 . 1   2 e 1 s 2 t 1 h 1 f 1 n 1 f 1 n 1 m 1 y 1   1 w 1 o 1 n 1 u 1   1 c 1 i 3 h 1 r 1 c 2 o 1 c 3 t 1 m 1 e 1   1 o 1 m 1   1 I 1 o 1 e 1 , 2   1 c 1 m 1   1 r 1 u 1 e 1 d 1 u 1 s 3   1 m 1 c 1 o 1   1 a
+50
+1 y 1 r 1 , 1 d 1 e 1 s 1 e 1 n 1 , 1 r 1 n 1 s 1 h 1 m 1   1 h 1 w 1   1 n 1 h 2 s 2 v 1 l 2   1 n 1 t 1   1 t 1   1 e 1 g 4 a 1 i 1 w 2 e 1 o 1 a 1 s 1 r 1 u 1 e 1 u 1   1 n 1   1 b 2 e 2   1 s
+14
+1 s 1 p 1 f 1 ; 1 s 1 t 1 g 1 , 1 g 1 w 1 n 1 l 1 t 1 s 1   1 c 1 n 1 r 1 o 3 n 1 g 1 r 1 t 1 m 1 u 1 s 1 l 1 e 2   1 o 1 a 1 o 2 i 1   1 o 1 a 1   1 i 1 l 1 c 1 e 1 n 1 r 1 u 1 e 1   1 t 1   1 u 1 w 2 i 1 n 1   1 n 1 s 1 i 1 s 1 q 1   3 o
+21
+1 n 1 g 1 d 1 o 1 , 1 a 1 ; 1 r 1 y 1 w 1 s 2   1 h 1 e 1 n 1 h 1 S 1 d 1   1 e 1 n 1 a 2 r 1 s 1 b 1 e 1 k 2 n 2   1 w 1   1 r 1 m 1 g 2 a 1 i 1 o 1 i 1 e 1 i 1 a 1   1 h 1   1 h 1 n 1 e 1 u 1 b 1 c 1 l 1 u 1 a 1 t 2 o 1   1 a
+54
+1 t 1 n 1 d 1 , 3 e 1 ; 1 n 1 g 1 n 1 w 1 y 2   1 t 1 h 1   1 g 1 d 2   1 n 1 s 1 t 1 h 1 l 1 k 1 p 1 u 1 N 1 n 1 w 1   1 t 1   1 n 1 a 1 p 1 o 1 e 1 i 1 a 1 i 1 r 2   1 e 1 n 1   1 o 1 u 1 e 1 a 1 y 1 a 1   1 T 1 b 1 o 1 e 1 a 1 b
+63
+1 r 1 f 1 , 1 s 1 w 2 e 1 d 1 r 1 g 1 t 1 n 1 l 2   1 H 1 p 3   1 n 2   2 h 1 z 1 t 1 W 1 l 1 o 1 n 2 t 1 p 1 n 1 m 1 l 1 h 1 a 1 t 1 a 1 e 1 a 1 i 1 r 1   1 i 1   1 d 1 o 1 n 1 d 1   1 m 1 e 1 o 1 u 1 t 1 n 1 e 1 a 1 s 1   1 ; 1 s 1 e 1 b 2 o
+61
+1 f 1 , 1 f 1 n 1 e 1 s 1 e 1 w 1 , 1 g 1 d 1 r 1 y 2 o 1 t 4   1 d 1 o 1 n 1 - 1 r 1 h 1 f 1 r 1 d 2 o 1 i 1 n 1 t 1 l 1 k 1 c 1 a 1   1 - 1   2 a 1 i 2 t 1 r 2   1 m 1 i 1 r 1 e 1 u 1 e 1 t 1 r 1 o 1 u 2   1 a 1   1 a 1 m 2 o 1 a
+57
+1 d 1 s 1 a 1 o 1 y 2 d 1 f 2 r 1 e 1   1 h 1 f 1 o 1 b 1   1 n 1 t 2 e 1 a 1 c 1 b 1 h 1 p 1 r 1 m 1 f 1 r 1 o 1   1 l 1   1 c 1 w 1 p 1 s 1 i 1 r 1 e 1 h 1 r 1   1 b 1 x 1   3 e 1 w 1 a 1   1 ' 1   1 e 1   1 . 1 i 1 o
+
+13
+1 d 2 , 1 s 1 d 1 o 1 e 1 l 1 e 1 a 1 e 1 s 1 m 1 n 1   1 c 1   1 s 1 p 1   2 n 1 k 1 s 1 m 2 h 1 n 4 t 1 l 1   1 h 1 i 1 l 1   1 A 1 e 1 a 1 i 2 a 1 i 1 t 1 h 1   1 s 1 g 1 u 1 e 1 a 5   1 o
+11
+2 d 1 e 1 n 2 r 1 d 1 n 2 e 1 d 1   1 s 2 e 1   1 e 2 n 1 l 1   1 n 1 h 1 n 1 s 1 d 1 y 1 r 1 v 1 s 2 t 1   1 o 1 c 1 e 1 o 2 a 1 u 1 o 1   1 p 1   1 l 1 h 1 u 2 a 1 d 1 u 1 o 3   1 h 1   1 o 1 e 1  
+16
+1 . 1   1 e 1 n 2 d 1 e 1 d 1 y 1 , 1 m 1 y 1 e 2   1 m 1 e 2   1 e 2 n 1 o 1 h 1 l 1 v 1 h 1 n 1 h 1 v 1 s 1 - 3 t 1 w 1 h 1 v 1 f 1 i 1 e 1 d 3 a 1 o 1 e 1 E 1 o 1 r 1 W 1 i 4   1 n 1 i 1 e 1 n 1   1 b 1 t
+12
+1 , 2 e 1 o 1 f 1 , 1 d 1 e 1 d 1 r 1 s 1 d 1 e 1   1 l 1 F 1 j 1 n 3 e 1 g 1 h 2 s 1 k 1 d 1 e 1 h 1 m 1 o 1 r 1 t 1 n 2 t 1   1 r 1   1 r 1 a 1 u 1 w 1   1 w 2 h 1 e 1 a 1 o 1 a 1 w 2 o 5   1 t 1   1 a
+46
+1 n 2 r 1 e 1 o 1 e 1 h 1 d 1 f 1 , 1 r 1 d 1 s 1 h 1 f 1 l 1 f 1   1 a 1 n 1 o 2 h 1   1 h 1 c 1 o 2   1 u 1 t 1 g 3 t 1 a 1 t 1 a 1 w 1 p 1 i 1 a 1 e 1 w 1 r 1   1 , 1 n 1   2 i 1 e 1 t 1 e 1   1 i 2   1 o 1 s 2   1 o 1   1 t
+15
+1 . 1   1 h 1 d 1 s 1 r 1 h 1 a 1 e 2 d 1 s 1 d 2   1 e 1 h 1 c 1   1 n 1 i 1 e 1 n 2   1 n 1 h 1 i 1 h 2 i 1 t 1 g 1   2 t 1   1 g 1 T 1 d 1 r 1 h 1 r 1 v 1 e 1 w 1 d 2 a 2 i 1 r 1   1 a 1 u 1 t 1 i 2   2 h 1 i 1  
+61
+1 d 1 e 1 n 1 r 2 d 1 t 1 e 1 y 1 s 1   1 e 1   1 u 1 e 4 n 1 v 1 n 1 y 1 r 1 h 2 v 2 s 1 - 2 t 1   1 e 1 f 1 e 2 a 1 u 2 o 1 e 1 c 1   1 h 1 a 1 d 1 i 1 u 2   1 c 2   1 n 1 d 1 h 1 o 1 i 2 e 1 t 1 r
+11
+1 , 1 e 1 l 1 d 2 s 2 f 2 s 1 - 1 s 1 i 1 m 1   3 e 2   1 n 1 a 1 h 4 r 1 s 1 r 1 n 2 o 2 t 1 r 1 h 1 l 1 a 1 s 1   1 a 1 t 2   1 G 2 c 2 u 1 y 1 d 3 e 1 i 1 s 1   1 e 1 - 1   3 a 2 t 1 m
+18
+1 e 1 y 1 t 2 e 1 s 2 g 1 e 1 t 1 - 1 m 1 o 1 - 1   1 h 1 l 1   1 . 1 i 1 a 1 l 2 h 1 r 1 b 1 h 1 r 1 e 2 n 4 t 1 c 1 n 1   1 c 1 a 1 e 1 a 3 o 1 r 1 m 1 l 1 r 1 f 1 o 2   1 h 1 d 1 e 1 a 1 s 4   1 a

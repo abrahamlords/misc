@@ -1,0 +1,75 @@
+http://www.cplusplus.com/reference/string/stoi/
+
+
+
+
+
+
+
+
+//#include "LinkedList.h"
+
+
+//class Line {
+//public:
+//    string* stringPtr;
+//    Line();
+//    Line(string* strangPtr);
+//    ~Line();
+//};
+//
+//Line::Line() {
+//    stringPtr = NULL;
+//}
+//Line::Line(string* strangPtr) {
+//    stringPtr = strangPtr;
+//}
+//Line::~Line() {
+//    // delete ;
+//}
+
+
+//LinkedList* stdinToLinkedList();   //cin with getline
+//string** linkedListToArray(LinkedList *linkedListPtr, int size);
+//void printArray(string** Array, int size);
+
+//string* getCinLine();
+
+    //int* test0= new int[1];
+    //*test0 = {1,2,2};
+    //int test1[] = {1,2,3,4,5,6,7,8,9,10,11,12};
+    //int test2[] = {12,11,10,9,8,7,6,5,4,3,2,1};
+    //int test3[] = {1,4,6,3,5,7,2};
+    //int test4[] = {155,325,6362,236462345,26456,46,46,325};
+    //cout << sizeof(test0) << endl;
+
+    //LinkedList* linkedLines= stdinToLinkedList();
+    //linkedLines -> printList();
+    //int size = linkedLines -> length();
+    //string** strArry = linkedListToArray(linkedLines, size);
+    //printArray(strArry, size);
+
+
+
+
+
+    //LinkedList* stdinToLinkedList() {
+    //    LinkedList* stringLinkedList = new LinkedList();
+    //    while (!cin.eof()) {
+    //        string* enput = new string;
+    //        stringLinkedList -> addToEnd(enput);
+    //        getline(cin,*enput);
+    //        //cout << enput << "--" << *enput << endl;
+    //    }
+    //
+    //    return stringLinkedList;
+    //}
+    //string** linkedListToArray(LinkedList *linkedListPtr, int size) {
+    //    string** strArray = new string*[size];
+    ////cout << linkedListPtr -> removeFromFront() << endl;
+    //    for (int i = 0; i < size; i++) {
+    //        strArray[i] = linkedListPtr -> retrieve(i);
+    //    }
+    //
+    //    return strArray;
+    //}
