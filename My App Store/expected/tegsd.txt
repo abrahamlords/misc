@@ -1,0 +1,179 @@
+/Users/abrahamlords/CLionProjects/cse310projec2/cmake-build-debug/cse310projec2
+Application Accuweather not found.
+
+Found Application: Jubitron the Girl Robot
+	Category: Books
+	Application Name: Jubitron the Girl Robot
+	Version: 2.08
+	Size: 110.0
+	Units: MB
+	Price: $1.99
+
+Found Application: Chrome
+	Category: Utilities
+	Application Name: Chrome
+	Version: 45.0.2454.89
+	Size: 71.5
+	Units: MB
+	Price: $0.00
+
+Found Application: FanDuel: One Day Fantasy Sports Leagues
+	Category: Sports
+	Application Name: FanDuel: One Day Fantasy Sports Leagues
+	Version: 1.9.1
+	Size: 35.4
+	Units: MB
+	Price: $0.00
+
+Application WatchMTV not found.
+
+Found Application: Dropbox
+	Category: Productivity
+	Application Name: Dropbox
+	Version: 4.0.3
+	Size: 61.7
+	Units: MB
+	Price: $0.00
+
+Found Application: Sleep Cycle Alarm Clock
+	Category: Health & Fitness
+	Application Name: Sleep Cycle Alarm Clock
+	Version: 4.8.1
+	Size: 41.6
+	Units: MB
+	Price: $0.99
+
+Application Ultimate Guitar not found.
+
+
+
+-------------------- Report --------------------
+Category name : Books
+	 Nodes :8
+	 Height : 5
+	 Height of left subtree : 4
+	 Height of right subtree : 2
+Category name : Business
+	 Nodes :11
+	 Height : 6
+	 Height of left subtree : 2
+	 Height of right subtree : 5
+Category name : Catalogs
+	 Nodes :7
+	 Height : 6
+	 Height of left subtree : 5
+	 Height of right subtree : 0
+Category name : Education
+	 Nodes :9
+	 Height : 4
+	 Height of left subtree : 3
+	 Height of right subtree : 3
+Category name : Entertainment
+	 Nodes :13
+	 Height : 8
+	 Height of left subtree : 1
+	 Height of right subtree : 7
+Category name : Finance
+	 Nodes :7
+	 Height : 4
+	 Height of left subtree : 3
+	 Height of right subtree : 2
+Category name : Food & Drink
+	 Nodes :12
+	 Height : 6
+	 Height of left subtree : 3
+	 Height of right subtree : 5
+Category name : Games
+	 Nodes :20
+	 Height : 7
+	 Height of left subtree : 5
+	 Height of right subtree : 6
+Category name : Health & Fitness
+	 Nodes :10
+	 Height : 5
+	 Height of left subtree : 4
+	 Height of right subtree : 3
+Category name : Kids
+	 Nodes :7
+	 Height : 4
+	 Height of left subtree : 3
+	 Height of right subtree : 1
+Category name : Lifestyle
+	 Nodes :7
+	 Height : 4
+	 Height of left subtree : 2
+	 Height of right subtree : 3
+Category name : Magazines & Newspapers
+	 Nodes :6
+	 Height : 4
+	 Height of left subtree : 3
+	 Height of right subtree : 0
+Category name : Medical
+	 Nodes :7
+	 Height : 5
+	 Height of left subtree : 0
+	 Height of right subtree : 4
+Category name : Music
+	 Nodes :11
+	 Height : 6
+	 Height of left subtree : 5
+	 Height of right subtree : 1
+Category name : Navigation
+	 Nodes :11
+	 Height : 6
+	 Height of left subtree : 1
+	 Height of right subtree : 5
+Category name : News
+	 Nodes :10
+	 Height : 5
+	 Height of left subtree : 2
+	 Height of right subtree : 4
+Category name : Photo & Video
+	 Nodes :7
+	 Height : 5
+	 Height of left subtree : 0
+	 Height of right subtree : 4
+Category name : Productivity
+	 Nodes :11
+	 Height : 6
+	 Height of left subtree : 5
+	 Height of right subtree : 3
+Category name : Reference
+	 Nodes :5
+	 Height : 3
+	 Height of left subtree : 2
+	 Height of right subtree : 2
+Category name : Social Networking
+	 Nodes :8
+	 Height : 5
+	 Height of left subtree : 4
+	 Height of right subtree : 2
+Category name : Sports
+	 Nodes :12
+	 Height : 6
+	 Height of left subtree : 5
+	 Height of right subtree : 3
+Category name : Travel
+	 Nodes :3
+	 Height : 3
+	 Height of left subtree : 0
+	 Height of right subtree : 2
+Category name : Utilities
+	 Nodes :11
+	 Height : 6
+	 Height of left subtree : 5
+	 Height of right subtree : 2
+Category name : Weather
+	 Nodes :4
+	 Height : 3
+	 Height of left subtree : 1
+	 Height of right subtree : 2
+
+
+Hash Table :
+Length 1 : 144
+Length 2 : 29
+Length 3 : 5
+Load Factor = 217 elements / 178 slots = 1.2191
+
+Process finished with exit code 134 (interrupted by signal 6: SIGABRT)
