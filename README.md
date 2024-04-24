@@ -1,3 +1,3 @@
 # misc
 
-practice projects exploring various data structures and algorithms
+Each folder is a different project exploring various data structures and algorithms.
